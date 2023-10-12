@@ -1,0 +1,6 @@
+com/example/crud2/backend/resource/PessoaResource.class
+com/example/crud2/backend/model/Pessoa.class
+com/example/crud2/backend/config/SwaggerConfiguration.class
+com/example/crud2/backend/Crud2Application.class
+com/example/crud2/backend/repositories/PessoaRepository.class
+com/example/crud2/backend/controller/HomeController.class
